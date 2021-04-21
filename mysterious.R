@@ -1,4 +1,3 @@
-setwd("~/Documents/Documentos/iop/TEC/Mysterious")
 batches <- list()
 
 for (i in 1:14) {
